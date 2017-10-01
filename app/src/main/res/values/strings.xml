@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">crapo-CountBook</string>
+    <string name="hello">Add a new counter...</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
